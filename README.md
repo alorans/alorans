@@ -2,8 +2,8 @@
 
 #### Languages:
 - Python
-- C
-- C++
+- C/C++
+- GLSL
 
 #### Hobbies:
 - [Desmos](https://www.desmos.com/calculator) graphing calculator
